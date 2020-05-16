@@ -1,4 +1,4 @@
-##Discrete optimization
+**#Discrete optimization**
 1. Knapsack
 Dynamic programming (on small instances) + greedy algorithm (on big instances) –– sorting by density
 2. Graph colouring
